@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your system:
   
   - C++ Compiler: Make sure a C++ compiler compatible with Qt is installed.
   
-  - Git: Install Git for cloning the repository. You can download it from here.
+  - Git: Install Git for cloning the repository.
 
 # Running Terminal Emulator on your local machine
 
